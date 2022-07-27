@@ -11,3 +11,11 @@ As with pull requests, forking is not a Git feature. The ability to fork is impl
 ::: warning
 *here be dragons*
 :::
+
+## Now what?
+
+Now that I've forked, I have my very own copy of the repo where I can do whatever I want!
+
+I can clone my fork and make changes, add features, and break things without fear of disturbing the original repository.
+
+If I do want to share my work, I can make a pull request from my fork to the original repo.
