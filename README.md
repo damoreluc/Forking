@@ -6,7 +6,8 @@ When we fork a repo, we're basically asking Github "make me my own copy of this 
 
 As with pull requests, forking is not a Git feature. The ability to fork is implemented by Github.
 
-### [Custom container](https://github.com//markdown-it-container)
+### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+
 ::: warning
 *here be dragons*
 :::
